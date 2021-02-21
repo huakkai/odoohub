@@ -8,7 +8,7 @@
     'summary': '',
     'description': "",
     'website': 'https://www.odoohub.com/',
-    'depends': [],
+    'depends': ['base'],
     'data': [],
     'demo': [],
     'css': [],
